@@ -14,11 +14,11 @@
 
 - The first player to reach 100 points on GLOBAL score wins the game.
 
-## Créditos
+## Credits
 
 - [Alberto Fragoso](https://facebook.com/yeahbetoyeah)
 
-## Licencia
+## License
 
 [MIT](https://opensource.org/licenses/MIT)
 
