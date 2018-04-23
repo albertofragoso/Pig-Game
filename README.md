@@ -1,2 +1,2 @@
 # Pig-Game
-Ping game with Javascript.
+Pig game with Javascript.
